@@ -1,0 +1,17 @@
+﻿  main.cpp
+d:\hob\physics balls\asd\main.cpp(22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(86): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(87): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(88): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(89): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\hob\physics balls\asd\main.cpp(106): warning C4244: =: преобразование "sf::Int64" в "double", возможна потеря данных
+  asd.vcxproj -> D:\Hob\Physics Balls\Debug\asd.exe
