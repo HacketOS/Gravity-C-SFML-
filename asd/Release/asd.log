@@ -14,4 +14,4 @@ d:\hob\physics balls\asd\main.cpp(87): warning C4244: =: преобразова�
 d:\hob\physics balls\asd\main.cpp(88): warning C4244: =: преобразование "double" в "float", возможна потеря данных
 d:\hob\physics balls\asd\main.cpp(89): warning C4244: =: преобразование "double" в "float", возможна потеря данных
 d:\hob\physics balls\asd\main.cpp(106): warning C4244: =: преобразование "sf::Int64" в "double", возможна потеря данных
-sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: тип компьютера модуля "x64" противоречит типу целевого компьютера "x86"
